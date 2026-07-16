@@ -1,0 +1,2 @@
+
+class MiniumQuantityException implements Exception{}

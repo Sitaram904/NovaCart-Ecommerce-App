@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "300980377611",
+    "project_id": "nova-cart-71e0a",
+    "storage_bucket": "nova-cart-71e0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300980377611:android:b7ad2d288ed5f0d0250f0e",
+        "android_client_info": {
+          "package_name": "com.smTech.nova_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300980377611-ruqf61keud5pb8pueodbur5b61c575a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smTech.nova_cart",
+            "certificate_hash": "ae989e332c2e79644409532c3951af4c78dd1eb3"
+          }
+        },
+        {
+          "client_id": "300980377611-ni22bskpdk0a2pkiuqdjb03um79650ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCT4fOMzXJtKswzAQIs1lFZk6lKACoYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300980377611-ni22bskpdk0a2pkiuqdjb03um79650ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300980377611-e4meanptbt71oj26lcjjv3l9i1kd14p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novaCart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
