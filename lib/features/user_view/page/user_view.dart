@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:nova_cart/core/constants/app_colors.dart';
-import 'package:nova_cart/features/admin/add_products.dart';
 import 'package:nova_cart/features/auth/ui/bloc/auth_bloc.dart';
 import 'package:nova_cart/features/auth/ui/bloc/auth_event.dart';
 import 'package:nova_cart/features/auth/data/firebase_user_details.dart';
@@ -100,7 +99,7 @@ class _UserViewState extends State<UserView> {
             ),
             listTiles(
               onTap: () {
-                AddProducts().addProducts();
+                // AddProducts().addProducts();
               },
               pName: 'Help',
               uIcon: FontAwesomeIcons.solidCircleQuestion,
