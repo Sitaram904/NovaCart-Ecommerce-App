@@ -147,6 +147,5 @@ This project is for educational/internship purposes.
 
 ## 👤 Author
 
-**Your Name** — [your-email@example.com](mailto:your-email@example.com)
+**Sitaram Mijar** — [sitaramrokka81@gmail.com](mailto:sitaramrokka81@gmail.com)
 
-GitHub: [@your-username](https://github.com/your-username)
